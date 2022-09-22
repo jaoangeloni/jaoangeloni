@@ -1,4 +1,4 @@
-<h1><b>Sup! Welcome to my GitHub!</b></h1>  
+<h1><b>Sup❗ Welcome to my GitHub❗</b></h1>  
   <div align="center">
   <a href="https://github.com/jaoangeloni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
