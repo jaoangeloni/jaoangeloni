@@ -8,10 +8,12 @@
 <br>
 <center>
   <img height="70" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="left" style="filter:FlipH"/>
-    <a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="HTML"width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <a href="https://www.w3schools.com/css/"><img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <a href="https://www.w3schools.com/c/index.php/"><img align="center" alt="C" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-      <img height="70" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="right"/>
+  <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
+  <img align="center" height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
+  <img align="center" height="45" src="https://logospng.org/download/java/logo-java-512.png"/>
+  <img height="70" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="right"/>
   </center>
   <br>
   </div>
