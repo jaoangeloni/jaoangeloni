@@ -7,13 +7,13 @@
 <div align="center">
 <br>
 <center>
-  <img height="70" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="left" style="filter:FlipH"/>
+  <img height="60" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="left" style="filter:FlipH"/>
   <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
   <img align="center" height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img align="center" height="45" src="https://logospng.org/download/java/logo-java-512.png"/>
-  <img height="70" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="right"/>
+  <img height="60" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="right"/>
   </center>
   <br>
   </div>
