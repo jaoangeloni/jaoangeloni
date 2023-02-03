@@ -6,7 +6,7 @@
 </ul>
 <h2>Some skills</h2>
 <ul>
-  <li><b>💻 Front-End troop but lots of love for OOP</b></li>
+  <li><b>💻 FE developer but lots of love for OOP</b></li>
   <li><b>✏️ Designer, illustrator and animator</b></li>
   <li><b>🎸 Bassist in free time</b></li>
  </ul>
