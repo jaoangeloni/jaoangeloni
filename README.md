@@ -11,7 +11,7 @@
   <li><b>🎸 Bassist in free time</b></li>
  </ul>
  <h2>Status</h2>
- <div align="center">
+ <div align="left">
   <a href="https://github.com/jaoangeloni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=dark"/>
@@ -25,5 +25,5 @@
   <img align="center" height="45" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="50" src="https://www.pngplay.com/wp-content/uploads/11/Gengar-PNG-Background.png" align="right"/>
   <br>
-  </div>
+ </div>
 
