@@ -10,11 +10,11 @@
   <li><b>✏️ Designer, illustrator and animator</b></li>
   <li><b>🎸 Bassist in free time</b></li>
  </ul>
- <h2>Status</h2>
+ <h2>Languages</h2>
  <div align="left">
   <a href="https://github.com/jaoangeloni">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="left"> 
