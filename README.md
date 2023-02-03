@@ -4,18 +4,18 @@
   <li><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></li>
   <li><b>👨‍💻 Systems Development student</b></li>
 </ul>
-<h2>🎯Some skills</h2>
+<h2>Some skills 🎯</h2>
 <ul>
   <li><b>💻 Front-end developer but lots of love for OOP</b></li>
   <li><b>✏️ Designer, illustrator and animator</b></li>
   <li><b>🎸 Bassist in free time</b></li>
  </ul>
- <h2>📈Stats</h2>
+ <h2>GitHub Stats📈</h2>
  <div align="left">
   <a href="https://github.com/jaoangeloni">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=dark"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="125em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=dark&hide_border=false/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=dark"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=dark&hide_border=false/>
   <br>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
