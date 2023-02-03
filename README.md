@@ -10,7 +10,7 @@
   <li><b>✏️ Designer, illustrator and animator</b></li>
   <li><b>🎸 Bassist in free time</b></li>
  </ul>
- <h2>GitHub Stats📈</h2>
+ <h2>GitHub Stats 📈</h2>
  <div align="left">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=dark"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
