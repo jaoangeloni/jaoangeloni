@@ -12,9 +12,9 @@
  </ul>
  <h2>GitHub Stats 📈</h2>
  <div align="left">
-  <img height="118.6em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=radical"/>
-  <img height="118.6em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="118.6em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=radical&hide_border=false/>
+  <img height="118.8em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=radical"/>
+  <img height="118.8em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="118.8em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=radical&hide_border=false/>
   <br>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
