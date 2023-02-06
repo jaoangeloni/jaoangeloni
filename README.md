@@ -21,7 +21,6 @@
   <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
   <img height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img height="45" src="https://logospng.org/download/java/logo-java-512.png"/>
-  <img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/>
 </div>
 
 
