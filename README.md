@@ -1,4 +1,4 @@
-<h1>Sup❗ Welcome to my GitHub profile❗</h1>
+<h1>Sup❗ Welcome to my GitHub profile❗<img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/></h1>
 <ul>
   <li><b>👋 I am João Angeloni, a rising developer</b></li>
   <li><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></li>
@@ -21,5 +21,5 @@
   <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
   <img height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img height="45" src="https://logospng.org/download/java/logo-java-512.png"/>
-  <img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/>
+
 </div>
