@@ -25,7 +25,6 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
-  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
   &#8287
   &#8287
   &#8287
