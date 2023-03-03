@@ -12,9 +12,9 @@
  </ul>
  <h2>GitHub Stats 📈</h2>
  <div align="left">
-  <img height="117.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=radical"/>
-  <img height="117.5em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="117.5em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=radical&hide_border=false/>
+  <img height="119em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=radical"/>
+  <img height="119em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="119em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=radical&hide_border=false/>
   <br>
   <img height="50" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
