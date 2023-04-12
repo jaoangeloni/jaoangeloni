@@ -1,6 +1,6 @@
 <h1>Sup❗ Welcome to my GitHub profile❗<img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/></h1>
 <ul>
-  <li><b>👋 I am João Angeloni, a rising developer</b></li>
+  <li><b>👋 I am João Angeloni, a beginner developer</b></li>
   <li><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></li>
   <li><b>👨‍💻 Systems Development student</b></li>
 </ul>
