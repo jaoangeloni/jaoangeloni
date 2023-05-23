@@ -16,17 +16,12 @@
   <img height="122em" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="122em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=radical&hide_border=false/>
   <br>
-  <img height="50" src="https://logospng.org/download/java/logo-java-512.png"/>
-  <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
+  <img height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img height="45" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
-  &#8287
-  &#8287
-  &#8287
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
-  &#8287
-  &#8287
-  &#8287
-  <img height="35" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
+  <img height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
+  <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
+  <img height="50" src="https://logospng.org/download/java/logo-java-512.png"/>
 </div>
