@@ -6,7 +6,7 @@
 </ul>
 <h2>Some skills 🎯</h2>
 <ul>
-  <li><b>💻 Full Stack Dev</b></li>
+  <li><b>💻 Full Stack developer</b></li>
   <li><b>✏️ Designer, illustrator and animator</b></li>
   <li><b>🎸 Bassist in free time</b></li>
  </ul>
