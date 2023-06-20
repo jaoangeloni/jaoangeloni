@@ -10,12 +10,11 @@
   <ul>
     <li><b>💻 JS Fullstack developer</b></li>
     <li><b>✏️ Illustrator, animator and 3D hobbyist</b></li>
-    <li><b>🎸 'Musician' in free time</b></li>
+    <li><b>🎸 Music student in free time</b></li>
  </ul>
- <h2>Github Stats 📈</h2>
+ <h2>Languages 📈</h2>
  <div align="left">
   <img height="122em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=radical"/>
-  <img height="122em" src=https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&theme=radical&hide_border=false/>
   <br>
   <img height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img height="45" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
