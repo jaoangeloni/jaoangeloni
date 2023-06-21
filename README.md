@@ -1,16 +1,16 @@
-<h1>Sup❗ Welcome to my GitHub profile❗<img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/></h1>
+<h1>Welcome to my GitHub profile❗<img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/></h1>
   <img align="right" width="420px" src="https://github.com/jaoangeloni/jaoangeloni/assets/111870271/3b4c6936-2b71-437f-907e-3d2ba8e87a9f"/>
   <ul width="420">
     <li><b>👋 I am João Angeloni, a beginner developer</b></li>
     <li><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></li>
   </ul>
-<h2>About me 👨‍💻</h2>
+<h2>About me</h2>
   <ul>
-    <li><b>💻 JS Fullstack developer</b></li>
+    <li><b>👨‍💻 JS Fullstack developer</b></li>
     <li><b>✏️ Illustrator, animator and 3D hobbyist</b></li>
     <li><b>🎸 Music student in free time</b></li>
  </ul>
- <h2>Languages 📈</h2>
+ <h2>Languages</h2>
 <div>
   <img height="122em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=radical"/>
   <img height="35" align="top" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
