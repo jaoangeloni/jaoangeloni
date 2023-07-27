@@ -1,25 +1,48 @@
-<h1>Welcome to my GitHub profile❗<img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/></h1>
-  <img align="right" width="420px" src="https://github.com/jaoangeloni/jaoangeloni/assets/111870271/3b4c6936-2b71-437f-907e-3d2ba8e87a9f"/>
-  <ul width="420">
-    <li><b>👋 I am João Angeloni, a beginner developer</b></li>
-    <li><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></li>
-  </ul>
-<h2>About me</h2>
-  <ul>
-    <li><b>👨‍💻 JS Fullstack developer</b></li>
-    <li><b>✏️ Illustrator, animator and 3D hobbyist</b></li>
-    <li><b>🎸 Music student in free time</b></li>
- </ul>
- <h2>Languages</h2>
-<div>
-  <img height="122em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&langs_count=7&theme=radical"/>
-  <img height="35" align="top" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
-  <img height="45" align="top" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
-  <img height="40" align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-  <img height="40" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <br>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
-  <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
-  <img height="50" src="https://logospng.org/download/java/logo-java-512.png"/>
+<h1 align="center">
+  <img height="35" align="left" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/>
+  Welcome to my GitHub profile❗
+  <img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/>
+</h1>
+
+<br>
+
+<div align="center">
+  <img align="center" width="420px" src="https://github.com/jaoangeloni/jaoangeloni/assets/111870271/3b4c6936-2b71-437f-907e-3d2ba8e87a9f"/>
+</div>
+
+<br>
+
+<ul width="420" align="center">
+  <p><b>👋 I am João Angeloni, a full stack developer</b></p>
+  <p><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></p>
+</ul>
+
+<hr>
+
+<h2 align="center">About me</h2>
+
+<ul align="center">
+  <p><b>👨‍💻 JS Fullstack developer</b></p>
+  <p><b>✏️ Illustrator, animator and 3D hobbyist</b></p>
+  <p><b>🎸 Music student in free time</b></p>
+</ul>
+
+<hr>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&size_weight=0.5&count_weight=0.5&theme=radical"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&count_weight=0.5&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&count_weight=0.5&theme=radical&show_icons=true"/>
 </div> 
+
+<div align="center">
+  
+  [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,nextjs,&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=cpp,c,java,&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=mysql,prisma,&theme=dark)](https://skills.thijs.gg)
+  
+</div>
+
