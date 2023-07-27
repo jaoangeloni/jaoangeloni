@@ -32,17 +32,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="122" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
+  <img height="122" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&theme=radical"/>
   <img height="122" src="https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&count_weight=0.5&theme=radical"/>
   <img height="122" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&count_weight=0.5&theme=radical&show_icons=true"/>
 </div> 
 
 <div align="center">
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,nextjs,&theme=dark)](https://skills.thijs.gg)
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,&theme=dark)](https://skills.thijs.gg)
-  [![My Skills](https://skills.thijs.gg/icons?i=cpp,c,java,&theme=dark)](https://skills.thijs.gg)
-  [![My Skills](https://skills.thijs.gg/icons?i=mysql,prisma,&theme=dark)](https://skills.thijs.gg)
-  
+  [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,nextjs,html,css,tailwind,cpp,c,java,mysql,prisma,&theme=dark)](https://skills.thijs.gg)
 </div>
 
