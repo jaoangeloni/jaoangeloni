@@ -32,9 +32,9 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoangeloni&size_weight=0.5&count_weight=0.5&theme=radical"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&count_weight=0.5&theme=radical"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&count_weight=0.5&theme=radical&show_icons=true"/>
+  <img height="122" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
+  <img height="122" src="https://github-readme-streak-stats.herokuapp.com/?user=jaoangeloni&count_weight=0.5&theme=radical"/>
+  <img height="122" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&count_weight=0.5&theme=radical&show_icons=true"/>
 </div> 
 
 <div align="center">
