@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img height="35" align="left" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/>
   Welcome to my GitHub profile❗
-  <img height="35" align="right" src="https://www.pngkey.com/png/full/13-136478_gengar-face-year-of-zayed-png.png"/>
 </h1>
 
 <br>
