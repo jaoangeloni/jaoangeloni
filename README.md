@@ -12,8 +12,8 @@
 
 <ul width="420" align="center">
   <p><b>👋 I am João Angeloni</b></p>
-  <p><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></p>
   <p><b>👨‍💻 JS Fullstack developer</b></p>
+  <p><b>👨‍🎓 Currently studying at <i>SENAI</i> and <i>FATEC</i></b></p>
   <p><b>✏️ Illustrator, animator and 3D hobbyist</b></p>
   <p><b>🎸 Music student in free time</b></p>
 </ul>
