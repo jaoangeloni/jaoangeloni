@@ -20,7 +20,7 @@
 
 <hr>
 
-<h2 align="center">GitHub Stats and languages</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="110" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaoangeloni&layout=compact&theme=radical"/>
