@@ -30,7 +30,7 @@
 
 <div align="center">
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,nextjs,html,css,tailwind,mysql,prisma,&theme=dark)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,html,css,tailwind,mysql,prisma,&theme=dark)](https://skills.thijs.gg)
   
 </div>
 
