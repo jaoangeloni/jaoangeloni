@@ -27,9 +27,4 @@
   <img height="110" src="https://github-readme-stats.vercel.app/api?username=jaoangeloni&count_weight=0.5&theme=radical&show_icons=true"/>
 </div> 
 
-<div align="center">
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=java,spring,js,nodejs,react,html,css,mysql,prisma,tailwind,sequelize&theme=dark)](https://skills.thijs.gg)
-  
-</div>
 
