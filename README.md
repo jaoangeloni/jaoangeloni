@@ -34,7 +34,7 @@ tech-stack/
 │   ├── git
 │   ├── docker
 │   └── jenkins
-└── studying
+└── improving
     ├── c
     └── rust
 ```
