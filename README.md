@@ -19,17 +19,16 @@ tech-stack/
 │   └── java
 ├── frontend
 │   ├── nextjs
-│   ├── react
 │   └── react-native
 ├── backend
 │   ├── nestjs
-│   ├── express
 │   └── spring-boot
 ├── databases
 │   ├── sql-server
 │   ├── mongodb
-│   └── prisma
-│   └── hibernate
+│   └── orms
+│       ├── prisma
+│       └── hibernate
 ├── devops
 │   ├── git
 │   ├── docker
@@ -42,7 +41,7 @@ tech-stack/
 ```zsh
 $ ls hobbies/
 
-illustration/  2d_animation/  instuments/
+illustration/  animation/  music/
 ```
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
